@@ -1,5 +1,5 @@
 ## 삼성 SSAFY 교육 자료
-### day 1. 크롤링 기초
+### [day 1. 크롤링 기초](https://github.com/haeyonghahn/samsung-ssafy-education/tree/master/day%201.%20%ED%81%AC%EB%A1%A4%EB%A7%81%20%EA%B8%B0%EC%B4%88)
 ### day 2. 데이터 분석
 ### day 3. 챗봇 시작하기
 ### day 4. 챗봇 프로젝트
