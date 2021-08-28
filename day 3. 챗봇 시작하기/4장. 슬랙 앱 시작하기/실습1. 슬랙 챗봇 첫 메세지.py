@@ -6,10 +6,10 @@ from slackeventsapi import SlackEventAdapter
 
 # OAuth & Permissions로 들어가서
 # Bot User OAuth Access Token을 복사하여 문자열로 붙여넣습니다
-SLACK_TOKEN = "xoxb-675155583329-683378410599-1VlHmmJv29rq6LbYtvzAg2jN"
+SLACK_TOKEN = ""
 # Basic Information으로 들어가서
 # Signing Secret 옆의 Show를 클릭한 다음, 복사하여 문자열로 붙여넣습니다
-SLACK_SIGNING_SECRET = "65c4f9e8b51a7306120d438c36aaa58e"
+SLACK_SIGNING_SECRET = ""
 
 
 app = Flask(__name__)
